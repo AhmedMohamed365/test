@@ -6,12 +6,14 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp1
 {
+
+    //New function
     class Program
     {
         static void Main(string[] args)
         {
 
-
+            Console.WriteLine("HELLO");
         }
     }
 }
